@@ -17,6 +17,8 @@
 #define MK_C_OFFSET_2 16
 #define MK_C_INERVAL_2 16
 
+#define TAPPING_TERM 200
+
 #ifdef AUDIO_ENABLE
     #define STARTUP_SONG SONG(PLANCK_SOUND)
     // #define STARTUP_SONG SONG(NO_SOUND)
